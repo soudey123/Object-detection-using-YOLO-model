@@ -17,5 +17,5 @@ Joseph Redmon, Ali Farhadi - YOLO9000: Better, Faster, Stronger (2016)
 Allan Zelener - YAD2K: Yet Another Darknet 2 Keras
 The official YOLO website (https://pjreddie.com/darknet/yolo/)
 
-Car detection dataset: Creative Commons License
-The Drive.ai Sample Dataset (provided by drive.ai) is licensed under a Creative Commons Attribution 4.0 International License. We are grateful to Brody Huval, Chih Hu and Rahul Patel for providing this data.
+Car detection dataset: 
+Sample images taken from the Drive.ai Sample Dataset (provided by drive.ai) is licensed under a Creative Commons Attribution 4.0 International License. 
