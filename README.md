@@ -18,4 +18,5 @@ Allan Zelener - YAD2K: Yet Another Darknet 2 Keras
 The official YOLO website (https://pjreddie.com/darknet/yolo/)
 
 Car detection dataset: 
-Sample images taken from the Drive.ai Sample Dataset (provided by drive.ai) is licensed under a Creative Commons Attribution 4.0 International License. 
+
+Sample images taken from the Drive.ai Sample Dataset (provided by drive.ai) is licensed under a Creative Commons Attribution 4.0 International License(https://creativecommons.org/licenses/by/4.0/)
